@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DurgaMajhi",
+    "username": "PirateNPC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "powps2.aternos.me:39866",
+    "ip": "powps2.aternos.me",
     "port": 39866,
     "version": "1.21.11",
     "try-creative": false
