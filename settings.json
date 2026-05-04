@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "powps2.aternos.me",
+    "ip": "boafish.aternos.host:39866",
     "port": 39866,
     "version": "",
     "try-creative": false
