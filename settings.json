@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "udaybhandari",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "powps2.aternos.me",
