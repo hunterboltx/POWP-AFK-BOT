@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Udaybhandari",
+    "username": "UdayBhandari",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "powps2.aternos.me",
     "port": 39866,
-    "version": "1.21.10",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Plz Plz mujhe mat maro!",
+        "Plz plz mujhe mat maro!",
         "I like to play Minecraft!"
       ]
     },
