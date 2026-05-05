@@ -1,7 +1,7 @@
 {
-  "name": "AFK bot",
+  "name": "afk bot",
   "bot-account": {
-    "username": "UdayBhandari",
+    "username": "Udaybhandari",
     "password": "",
     "type": "offline"
   },
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": ""
+      "enabled": true,
+      "password": "chalo178"
     },
     "anti-afk": {
       "enabled": true,
