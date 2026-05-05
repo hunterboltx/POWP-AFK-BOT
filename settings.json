@@ -1,14 +1,14 @@
 {
   "name": "afk bot",
   "bot-account": {
-    "username": "Udaybhandari",
+    "username": "Pirate24x7",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "powps2.aternos.me",
     "port": 39866,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
