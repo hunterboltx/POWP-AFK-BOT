@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "powps2.aternos.me",
-    "port": 39866,
+    "ip": "powpsmp.falixsrv.me",
+    "port": 25598,
     "version": "1.21.1",
     "try-creative": false
   },
